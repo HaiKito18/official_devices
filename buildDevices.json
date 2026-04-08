@@ -49,7 +49,7 @@
       "donate": "",
       "enabled": true,
       "repo": "MistOS-Devices/device_gsi",
-      "build_type": "userdebug",
+      "build_type": "User",
       "gappsbuild": false,
       "picobuild": true,
       "minibuild": false,
